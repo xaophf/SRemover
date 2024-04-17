@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🗣🔥 get the skibidi W","🏖️ let's go to the beach-each.","🤑 2.4 MILLION DOLLARS!!1!","🔥 2 females in bloody","Listening to 𝗚𝗼𝗹𝗱𝗲𝗻 𝗦𝗵𝗼𝘄𝗲𝗿"];
+const statusMessages = ["🗣🔥 get the skibidi W","🏖️ let's go to the beach-each.","🤑 2.4 MILLION DOLLARS!!1!","🔥 3 females in bloody","Listening to 𝗚𝗼𝗹𝗱𝗲𝗻 𝗦𝗵𝗼𝘄𝗲𝗿"];
 
 
 let currentIndex = 0;
